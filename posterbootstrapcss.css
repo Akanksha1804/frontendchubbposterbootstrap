@@ -1,0 +1,78 @@
+
+.first{
+    background-color: rgb(253, 238, 241);
+}
+#com_name{
+    font-weight: bold;
+}
+#com_icon{
+    color: rgb(26, 26, 209);
+}
+#menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.get_button{
+    text-align: center;
+    background-color: rgb(255, 129, 82);
+    border-radius: 5px 5px 5px 5px;
+    padding: 4%;
+    color: white;
+    margin-left: 10%;
+}
+#sp_now{
+    color: rgb(255, 129, 82);
+}
+#sp_ex{
+    color: rgb(255, 129, 82);
+    font-style: italic;
+}
+#pw_by{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: grey;
+}
+#two_two{
+    margin: 8%;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+#feat{
+    background-color: pink;
+    color: rgb(235, 12, 49);
+    border-radius: 15px;
+    margin-left: 43%;
+    margin-right: 43%;
+}
+#two_two_content{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#plan_icon{
+    background-color: tomato;
+    color: white;
+    padding: 10%;
+    border-radius: 15px;
+}
+#cal_icon{
+    background-color: rgb(255, 213, 125);
+    color: white;
+    padding: 10%;
+    border-radius: 15px;
+}
+#task_icon{
+    background-color: rgb(127, 192, 161);
+    color: white;
+    padding: 10%;
+    border-radius: 15px;
+}
+#people_icon{
+    background-color: black;
+    color: white;
+    padding: 10%;
+    border-radius: 15px;
+}
